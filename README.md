@@ -2,6 +2,7 @@
 Project For CPS
 
 ** TO RUN ARCFACETEST.py **
+
 arcfacetest.py requires the source code from https://github.com/serengil/deepface, to run the program place both arcfacetest.py and the images folder in the main directory
 
 ** TO RUN ArcFace_Comparison.ipynb **
